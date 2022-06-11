@@ -18,11 +18,11 @@ def run():
         'floating_nums': [1.1, 4.5, 6.43]
     }
      
-    #for key, value in super_list.items():
-     #   print(key, '-', value)
+    for key, value in super_list.items():
+       print(key, '-', value)
         
-    for value in super_list:
-        print(value)
+    # for value in super_list:
+    #     print(value)
         
         
 if __name__ == '__main__':
