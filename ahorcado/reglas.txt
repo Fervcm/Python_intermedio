@@ -1,0 +1,18 @@
+REGLAS
+
+- Incorpora comprehensions, manejo de errores y manejo de archivos
+- Utiliza el archivo data.txt y leelo pata obtener las palabraas
+
+AYUDAS Y PISTAS
+
+- Investigar la funcion "enumerate".
+- El metodo "get" de los diccionarios.
+- la sentencia para limpiar pantalla
+                os.system("cls") - windows
+                os.system("clear") - linux
+
+MEJORAS
+
+- Añade un sistema de puntos
+- Dibuja al "Ahorcado" en cada jugada con "codigo ASCII"
+- Mejorar la interfaz
