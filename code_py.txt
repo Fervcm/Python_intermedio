@@ -3,3 +3,4 @@ source venv/bin/activate         #Activar el entorno virtual
 pip3 freeze                      #Ver instalacion de modulos
 pip3 install pandas               #Instalacionde pandas
 pip3 install -r requirements.txt  #Instala los modulos que esten cuando se baje la infirmacion de git
+with open(<ruta>, <modo_apertura>) as <nombre>  #abrir archivos 
