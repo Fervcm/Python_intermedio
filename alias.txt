@@ -1,0 +1,5 @@
+alias graph='git log --all --graph --decorate'
+alias graph1='git log --all --graph --decorate --oneline'
+alias update='sudo apt update'
+alias upgrade='sudo apt upgrade'
+alias avenv='source venv/bin/activate'

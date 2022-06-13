@@ -1,5 +1,5 @@
 python3 -m venv nombre_venv      #Crear entorno virtual en python3
 source venv/bin/activate         #Activar el entorno virtual
 pip3 freeze                      #Ver instalacion de modulos
-pip install pandas               #Instalacionde pandas
-pip install -r requirements.txt  #Instala los modulos que esten cuando se baje la infirmacion de git
+pip3 install pandas               #Instalacionde pandas
+pip3 install -r requirements.txt  #Instala los modulos que esten cuando se baje la infirmacion de git
