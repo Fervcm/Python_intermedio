@@ -15,7 +15,7 @@ def run():
     
     # print(my_dict)
     
-    my_dict = {i: round(math.sqrt(i), 2) for i in range(1, 1001)}
+    my_dict = {i: round(math.sqrt(i), 2) for i in range(1, 100)}
     
     print(my_dict)
     

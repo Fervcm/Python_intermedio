@@ -5,7 +5,7 @@ from xml.dom import ValidationErr
 
 def divisors(num):
     
-    assert num > -1, "No se pueden ingresar numeros negativos"
+    assert num < -1, "No se pueden ingresar numeros negativos"
     divisors = []
     for i in range(1, num +1):
         if num % i == 0:

@@ -1,7 +1,3 @@
-from re import I
-from numpy import number
-
-
 def read():
     numbers = []
     with open("./archivos/numbers.txt", "r", encoding="utf-8") as f:
@@ -20,7 +16,7 @@ def write():
             
 
 def run():
-    write()
+    read()
         
 
 if __name__ == "__main__":
